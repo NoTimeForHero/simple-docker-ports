@@ -1,0 +1,1 @@
+docker run --rm -v/var/run/docker.sock:/var/run/docker.sock:ro -p3000:3000 -d notimeforhero/simple-docker-ports

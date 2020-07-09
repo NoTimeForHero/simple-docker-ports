@@ -1,0 +1,1 @@
+docker build -t notimeforhero/simple-docker-ports .
